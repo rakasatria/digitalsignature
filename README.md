@@ -1,2 +1,2 @@
 # digitalsignature
-make PKI for DS with OpenSSL
+creating a whole PKI for Digital Signature with OpenSSL
